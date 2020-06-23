@@ -1,6 +1,6 @@
 {
   "name": "webxr-controller-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Automatically setup models and input mappings for WebXR controllers",
   "main": "index.js",
   "scripts": {
