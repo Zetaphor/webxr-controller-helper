@@ -1,6 +1,6 @@
 {
   "name": "webxr-controller-helper",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Automatically setup models and input mappings for WebXR controllers",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Zetaphor/webxr-controller-helper.git"
   },
-  "author": "zetaphor@gmail.com",
+  "author": "Zetaphor",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Zetaphor/webxr-controller-helper/issues"

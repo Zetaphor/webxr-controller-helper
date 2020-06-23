@@ -71,7 +71,7 @@ const controllerMapAliases = {
   'htc-vive-focus-plus': 'htc-vive'
 };
 
-var ControllerHelper = {
+var controllerHelper = {
   _controllers: {},
   _controllerMap: null,
   _useMaps: true,
@@ -272,4 +272,4 @@ var ControllerHelper = {
   }
 };
 
-export { ControllerHelper };
+export { controllerHelper };
